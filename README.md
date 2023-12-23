@@ -25,6 +25,10 @@ IMDB_LSTM_Review_Classifier 是一個基於長短期記憶網絡（LSTM）的情
 
 git clone https://github.com/yourusername/IMDB_LSTM_Review_Classifier.git
 
+下載數據庫：
+
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 
 ## 使用說明
 
